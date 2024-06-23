@@ -75,9 +75,7 @@ List of available routes:
 
 ### Frontend Repository
 
-List of available routes:
-
-`PATH /` - Access Home Page\
+`https://github.com/Alamnzr123/submission-fe-beginner`
 
 ## Tools and Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
@@ -85,7 +83,7 @@ List of available routes:
 ![Hapi](https://img.shields.io/badge/hapi-%2523404d59.svg?style=for-the-badge&logo=hapi&logoColor=%252361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## Packages Included

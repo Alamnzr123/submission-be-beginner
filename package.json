@@ -1,0 +1,25 @@
+{
+    "name": "Bookshelf-BackEnd",
+    "version": "1.0.0",
+    "description": "Backend for Bookshelf Application to complete my learning on Dicoding Academy",
+    "main": "./src/server.js",
+    "scripts": {
+        "start": "node ./src/server.js",
+        "lint": "eslint ./"
+    },
+    "keywords": [],
+    "author": {
+        "email": "nzr.rahmad@gmail.com",
+        "name": "Rahmad Alamsyah Nazaruddin"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^7.25.0",
+        "nodemon": "^2.0.7"
+    },
+    "dependencies": {
+        "@hapi/hapi": "^20.1.2",
+        "moment": "^2.29.1",
+        "nanoid": "^3.1.22"
+    }
+}
